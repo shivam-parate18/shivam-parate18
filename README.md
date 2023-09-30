@@ -5,8 +5,6 @@
 - 📩 Reach me anytime at shivam.parate03@gmail.com
 - 💪 My future goals? Oh, they're all about pushing myself beyond limits and making a lasting impact.
   
-
-- 📫 Connect with me on LinkedIn 🔗➡️ in/shivam-parate-4sp180703
 <!---
 shivam-parate18/shivam-parate18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
